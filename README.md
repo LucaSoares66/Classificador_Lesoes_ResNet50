@@ -124,31 +124,6 @@ Além disso, a curva ROC da ResNet50 apresentou melhor separação entre as clas
 ├── cnn_ham10000_lesoes_pele.ipynb
 ├── cnn_ham10000_resnet50_transfer_learning.ipynb
 ├── README.md
-└── resultados/
-    ├── curva_roc_resnet50.png
-    ├── matriz_confusao_resnet50.png
-    └── distribuicao_classes.png
-```
-
----
-
-## Como executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Instale as dependências:
-
-```bash
-pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
-```
-
-3. Abra o notebook no Jupyter ou Google Colab.
-
-4. Carregue a base HAM10000 e execute as células na ordem.
 
 ---
 
