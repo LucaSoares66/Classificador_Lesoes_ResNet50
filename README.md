@@ -125,7 +125,9 @@ Além disso, a curva ROC da ResNet50 apresentou melhor separação entre as clas
 ├── cnn_ham10000_resnet50_transfer_learning.ipynb
 ├── README.md
 
----
+```
+--- 
+
 
 ## Conclusão
 
